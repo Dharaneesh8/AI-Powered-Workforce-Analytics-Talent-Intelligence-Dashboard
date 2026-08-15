@@ -1,0 +1,7 @@
+frontend/node_modules
+data/eda_results
+powershell.cmd
+*.pyc
+__pycache__
+.git
+.venv

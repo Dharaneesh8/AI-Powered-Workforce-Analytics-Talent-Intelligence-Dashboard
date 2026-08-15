@@ -1,13 +1,4 @@
-pandas
-numpy
-matplotlib
-seaborn
-plotly
-scikit-learn
-xgboost
-shap
-joblib
-boto3
-fastapi
-uvicorn
-pyathena
+fastapi>=0.100.0
+uvicorn>=0.20.0
+pandas>=2.0.0
+boto3>=1.30.0
